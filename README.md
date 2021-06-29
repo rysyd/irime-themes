@@ -14,7 +14,7 @@ simple-1.theme.yaml
 ![simple-1](https://user-images.githubusercontent.com/26682806/123727266-f83e8000-d8c3-11eb-93a4-4c1a8b74ea5c.jpeg)
 
 number-plus.theme.yaml
-![number-plus](https://user-images.githubusercontent.com/26682806/123727396-258b2e00-d8c4-11eb-839b-e1e3ddd52334.jpeg)
+![number-plus](https://user-images.githubusercontent.com/26682806/123727672-96324a80-d8c4-11eb-93b7-2b61ed721ebe.jpeg)
 
 jiugongge, 需要配合方案文件
 ![jiugongge](https://user-images.githubusercontent.com/26682806/123727485-4ce1fb00-d8c4-11eb-87aa-1afc6bbd5685.jpeg)
